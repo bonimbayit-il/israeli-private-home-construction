@@ -1,0 +1,45 @@
+{
+  "display_name": {
+    "en": "Israeli Private Home Construction Advisor",
+    "he": "סקיל בנייה פרטית - בונים בית"
+  },
+  "display_description": {
+    "en": "Expert guide for Israeli homeowners planning new private home construction on private land. Based on 13+ years of field experience by an Israeli construction supervisor, distilled from 900+ YouTube videos and 100+ podcast episodes of the 'Bonim Bayit' channel. Covers 103 Q&As across 10 domains: planning, budget, architect, building permit, choosing contractor, contract essentials, guarantees, supervision, timeline, and materials. For land owners before new construction (not for renovations).",
+    "he": "מדריך מומחה לבעלי בתים בישראל שמתכננים לבנות בית פרטי חדש על קרקע פרטית. מבוסס על 13+ שנות ניסיון של מפקח בנייה ישראלי, ומזוקק מ-900+ סרטוני יוטיוב ו-100+ פרקי פודקאסט של ערוץ 'בונים בית'. כולל 103 שאלות-תשובות ב-10 תחומים: תכנון, תקציב, אדריכל, היתר בנייה, בחירת קבלן, חוזה, ערבויות, פיקוח, לוחות זמנים, וחומרים. מיועד לבעלי קרקע לפני בנייה חדשה (לא לשיפוצים)."
+  },
+  "tags": [
+    "private-construction",
+    "home-building",
+    "israel",
+    "hebrew",
+    "contractor",
+    "architect",
+    "construction-budget",
+    "building-permit",
+    "construction-supervisor",
+    "homeowner-guide"
+  ],
+  "tags_he": [
+    "בנייה פרטית",
+    "בית פרטי",
+    "בנייה בישראל",
+    "קבלן",
+    "אדריכל",
+    "תקציב בנייה",
+    "היתר בנייה",
+    "מפקח בנייה",
+    "בונים בית"
+  ],
+  "author": "Tomer Chen Reichana (bonimbayit.co.il)",
+  "version": "1.0.0",
+  "category": "government-services",
+  "supported_agents": [
+    "claude-code",
+    "cursor",
+    "windsurf",
+    "claude-desktop",
+    "claude-ai"
+  ],
+  "language": "he",
+  "license": "MIT"
+}
